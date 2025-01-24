@@ -1,7 +1,7 @@
 # chatting_program
 multi threading 채팅 프로그램 
 
-#### 개발환경: MAC OS
+#### 개발환경: MAC OS, c, gcc
 
 ## server
 ```
