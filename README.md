@@ -1,5 +1,5 @@
 # chatting_program
-c로 만든 채팅 프로그램 
+multi threading 채팅 프로그램 
 
 #### 개발환경: MAC OS
 
